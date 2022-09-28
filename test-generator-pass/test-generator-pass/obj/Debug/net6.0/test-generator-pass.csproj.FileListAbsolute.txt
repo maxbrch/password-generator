@@ -1,0 +1,15 @@
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\bin\Debug\net6.0\test-generator-pass.exe
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\bin\Debug\net6.0\test-generator-pass.deps.json
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\bin\Debug\net6.0\test-generator-pass.runtimeconfig.json
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\bin\Debug\net6.0\test-generator-pass.dll
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\bin\Debug\net6.0\test-generator-pass.pdb
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.csproj.AssemblyReference.cache
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.AssemblyInfoInputs.cache
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.AssemblyInfo.cs
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.csproj.CoreCompileInputs.cache
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.dll
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\refint\test-generator-pass.dll
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.pdb
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\test-generator-pass.genruntimeconfig.cache
+E:\work\sendbox\C#\test-generator-pass\test-generator-pass\obj\Debug\net6.0\ref\test-generator-pass.dll
